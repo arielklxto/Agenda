@@ -13,7 +13,7 @@ Desfrute de uma interface intuitiva e elegante, projetada para facilitar o plane
 ### Contato
 ![Contato]()
 
-![Gif do site]()
+![Gif do site](https://github.com/arielklxto/Agenda/blob/main/img/agenda_gif.gif)
 
 # Tecnologias utilizadas
 - HTML / CSS / BootStrap / MySQL / PHP
