@@ -15,6 +15,12 @@ Desfrute de uma interface intuitiva e elegante, projetada para facilitar o plane
 ### Criar Contato
 ![Contato](https://github.com/arielklxto/Agenda/blob/main/img/adicionar_contato_2.png)
 
+### Novo Contato
+
+#### O id do novo contato é visto como número 6 porque dois contatos anteriores foram apagados.
+
+![Contato](https://github.com/arielklxto/Agenda/blob/main/img/novo_contato.png)
+
 ![Gif do site](https://github.com/arielklxto/Agenda/blob/main/img/agenda_gif.gif)
 
 ![GIF do banco de dados](https://github.com/arielklxto/Agenda/blob/main/img/banco_de_dados_gif.gif)
