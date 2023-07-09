@@ -9,9 +9,8 @@ Desfrute de uma interface intuitiva e elegante, projetada para facilitar o plane
 ### Lista de contatos
 ![Home](https://github.com/arielklxto/Agenda/blob/main/img/lista_de_contatos.png)
 
-
-### Contato
-![Contato]()
+### Adicionar Contato
+![Contato](https://github.com/arielklxto/Agenda/blob/main/img/adicionar_contato.png)
 
 ![Gif do site](https://github.com/arielklxto/Agenda/blob/main/img/agenda_gif.gif)
 
