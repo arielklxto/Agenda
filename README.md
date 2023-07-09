@@ -12,6 +12,9 @@ Desfrute de uma interface intuitiva e elegante, projetada para facilitar o plane
 ### Adicionar Contato
 ![Contato](https://github.com/arielklxto/Agenda/blob/main/img/adicionar_contato.png)
 
+### Criar Contato
+![Contato](https://github.com/arielklxto/Agenda/blob/main/img/adicionar_contato_2.png)
+
 ![Gif do site](https://github.com/arielklxto/Agenda/blob/main/img/agenda_gif.gif)
 
 ![GIF do banco de dados](https://github.com/arielklxto/Agenda/blob/main/img/banco_de_dados_gif.gif)
