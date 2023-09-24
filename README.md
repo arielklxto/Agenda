@@ -1,3 +1,10 @@
+# Schedule
+An agenda with Bootstrap and database!
+
+Description: Digital Agenda: Organize your life in a smart and efficient way!
+Stay on track with our powerful online calendar, perfect for managing your important tasks, appointments and events.
+Enjoy an intuitive and elegant interface designed to make daily, weekly or monthly planning easy.
+
 # Agenda
 Uma agenda com Bootstrap e banco de dados!
 
